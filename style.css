@@ -1,0 +1,131 @@
+html,body{
+	margin: 0;
+	height: 100%;
+	width: 100%;}
+*{box-sizing: border-box;}
+.top_header_area{ 
+	height:30px;
+	width:100%;
+	background-color:#303030;
+ 	color:#fff;
+ 	padding: 5px;
+ 	 text-decoration:none;
+ 	 text-align: right;}
+.main_header_area{ 
+	height: 120px; }
+.logo_area{
+	float:left;
+	 width:25%;
+	 padding: 20px;
+	 color: #000; }
+.inner_menu_container{
+	position:relative;
+	float: right;
+	padding: 20px 10px 50px 10px;}
+.header_box{
+	position: relative;
+	 height:450px;
+	 width: 100%;
+ 	background-color: #505050;
+ 	padding: 50px 100px 100px 70px;}
+ .extra_div{
+ 	position:absolute;
+ 	 height: 75%;
+ 	  width: 485px;
+ 	border: 1px solid transparent;
+ 	border-radius: 10px;
+ 	background-color: #707070;}
+ .image{position: absolute; height: 87%; width: 485px;
+ 	;border: 20px solid #404040;
+ 	border-radius: 10px;}
+ .header_text{
+ 	position: relative;
+ 	width:50%;
+ 	float: right;
+ 	padding: 50px 50px 50px 200px;
+ 	font-size: 20px;
+ 	color: #fff;}
+
+.middle_section{
+	position:relative; 
+	margin:-50px 40px 40px 40px;
+	border-top:1px solid transparent;
+	border-radius: 10px;
+	padding:60px 70px 20px 150px; 
+	align-content: center;
+	background-color: #fff;}
+.box{
+	display: inline-block; 
+	height:203.04px; 
+	width:293.38px;
+	padding: 5px;}
+.nn{
+	color: #808080;}
+.boxx{
+	display: inline-block;
+	 height: 436.8px;
+	  width:301.3px;
+	  padding: 5px;}
+
+.footer{
+	margin: 0;
+	height:440px;
+	width: 100%;
+	 background-color:#606060;
+	padding: 30px 20px 10px 20px;}
+.div{
+	margin:0; 
+	width:25%;
+	height:80%;
+	float: left;
+	border-bottom: 2px solid purple;
+	padding: 5px 5px 15px 10px;}
+.text{
+	font-size: 17px;
+	color: #fff;}
+.text1{
+	font-size:10px;
+	color: #fff;
+	line-height:0.1;}
+.title{
+	color: #ee82ee;
+	line-height: 0.2;}
+.header{
+	color: #fff;}
+.footer1{
+	margin-top: 40px;}
+.template{
+	float: right;}
+.template1{
+	float: left;}
+input{
+	margin:5px;
+	height: 35px; 
+	border-radius:5px;
+	background-color: #ee82aa;
+	color: #fff;}
+input[type=submit]{
+	background-color:  #ee82ee;
+}
+.icon{
+	margin: 5px;
+	height:30px;
+	width: 30px;
+	 padding: 8px;
+	 background-color: #ff638d;
+	color: #ccc;
+	 border-radius:50%;
+	 float: left }
+a{text-decoration: none;}
+a:link{
+	color: #ee82ee;
+}
+a:visited{
+	color:#ff63f5;
+}
+a:hover{
+	color: #ff63e0;
+}
+a:active{
+	color: #9b48e0;
+}
